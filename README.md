@@ -1,5 +1,5 @@
 # Executor
-A discord bot for executing code form discord!
+A discord bot for executing code from discord!
 
 # About
 
