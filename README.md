@@ -16,5 +16,6 @@ Executor is a discord bot to run code from various programming languages! starti
 - Rust
 - Lua
 - Go
+- Erlang
 
 More will be added soon!
