@@ -22,7 +22,7 @@ Executor is a discord bot to run code from various programming languages! starti
 More will be added soon!
 
 
-# MIT LISENCE
+# MIT LICENSE (Read before copy and paste!)
 MIT License
 
 Copyright (c) 2021 AlexyDaCoder
